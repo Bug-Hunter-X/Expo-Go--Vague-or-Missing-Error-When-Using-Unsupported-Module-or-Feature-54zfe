@@ -1,0 +1,3 @@
+This error typically occurs when you try to use a module or feature from Expo Go that isn't supported by the version of Expo Go you are using.  It can also manifest if the module is improperly installed or configured within your project.  The lack of specific error details in the Expo Go console often makes debugging challenging.
+
+Example Scenario:  Attempting to use a new camera API feature in your Expo app using Expo Go on an older device that doesn't support that API.
